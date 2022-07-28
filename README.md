@@ -41,8 +41,7 @@
 <br>
 <br/>
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohit208
-&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohit208&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
 <hr>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit208&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Mohit's Top Languages"  /></p>
