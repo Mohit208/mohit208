@@ -1,4 +1,4 @@
-## Hey <img src="https://profile-counter.glitch.me/nawazwarsi/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Nawaz!](https://github.com/nawazwarsi) !!
+## Hey <img src="https://profile-counter.glitch.me/mohit208/count.svg"> <img src="https://raw.githubusercontent.com/mohit208/mohit208/master/Hi.gif" width="30px">, I'm [Mohit!](https://github.com/mohit208) !!
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawaz!;I'm+a+pre+final+year+student...;Aspiring+Data+Scienctist)](https://git.io/typing-svg)
