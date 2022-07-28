@@ -1,7 +1,7 @@
 ## Hey <img src="https://profile-counter.glitch.me/mohit208/count.svg"> <img src="https://raw.githubusercontent.com/mohit208/mohit208/master/Hi.gif" width="30px">, I'm [Mohit!](https://github.com/mohit208) !!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nawaz!;I'm+a+pre+final+year+student...;Aspiring+Data+Scienctist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohit!;I'm+a+pre+final+year+student...;Aspiring+Data+Scienctist)](https://git.io/typing-svg)
 
 <h3> Here's some fun facts about me: </h3>
 
@@ -41,7 +41,8 @@
 <br>
 <br/>
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nawazwarsi&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohit208
+&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
 <hr>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit208&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Mohit's Top Languages"  /></p>
